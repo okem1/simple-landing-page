@@ -1,0 +1,17 @@
+.box{
+  height: 400px;
+}
+.center-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aliceblue;
+  padding: 10px 30px;
+  margin-bottom: 10px;
+}
