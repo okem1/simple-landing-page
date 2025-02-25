@@ -35,7 +35,7 @@ function Carousel (){
             <div className='col-md-12 d-flex align-items-center h-600'>
                <div className='px-5'>
                 <h1 className='planning-text'>
-                    PLANNING FOR<br/> THE FUTURE
+                    BOLD, SMART<br/> INNOVATIVE
                 </h1>
                 <p className='text-gray p-0 m-0 font-bold'>Lorem Ipsum is simply dummy text of the printing</p>
                 <p  className='text-gray p-0 m-0 font-bold'>Lorem Ipsum is simply dummy text of the printing</p>
@@ -49,7 +49,7 @@ function Carousel (){
             <div className='col-md-12 d-flex align-items-center h-600'>
                <div className='px-5'>
                 <h1 className='planning-text'>
-                    PLANNING FOR<br/> THE FUTURE
+                    POWERFUL<br/> OPTIONS
                 </h1>
                 <p className='text-gray p-0 m-0 font-bold'>Lorem Ipsum is simply dummy text of the printing</p>
                 <p  className='text-gray p-0 m-0 font-bold'>Lorem Ipsum is simply dummy text of the printing</p>
